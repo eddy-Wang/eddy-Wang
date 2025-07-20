@@ -2,7 +2,7 @@
 - 👀 I’m interested in NLP, CV, etc.
 - 🌱 I’m currently learning GraphRAG and the relevant prerequisite
 - 💞️ I’m looking to collaborate on sota research and developing
-- 📫 reach me at 2542999@dundee.ac.uk
+- 📫 reach me at eddy_wang@csu.edu.cn
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: not really yet, may be filled in the future
 
