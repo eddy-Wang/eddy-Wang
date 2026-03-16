@@ -7,4 +7,4 @@ I am an AI researcher and developer focused on the intersection of **Foundation 
 - 💞️ **I’m looking to collaborate on:** Open-source multimodal agents, LLM alignment, and solving system-level bottlenecks in AI inference.
 - 📫 **How to reach me:** [tianshuo_wang@163.com](mailto:tianshuo_wang@163.com) 
 - 😄 **Pronouns:** he/him
-- ⚡ **Fun fact:** I once spent months meticulously building a large-scale underwater video enhancement benchmark dataset—because even AI needs cleaner data when exploring the abyss! 🌊📹
+- ⚡ **Fun fact:** spent months meticulously building a large-scale underwater video enhancement benchmark dataset 🌊📹
